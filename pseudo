@@ -1,0 +1,17 @@
+HANDLE PATH
+
+Get the command
+Search PATH if it exist - by accessing
+If found
+	goto that directory
+		execute that command
+
+
+SEARCHING
+Get path value
+While token
+	concat token and command
+	if product by accessing
+			return(product)
+Return null
+

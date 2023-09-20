@@ -1,0 +1,3 @@
+echo "main"
+cd
+pwd; cd -

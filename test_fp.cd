@@ -1,0 +1,9 @@
+#include "shell.h"
+
+int main()
+{
+	char *c = search_path("cat");
+	printf("%s\n", c);
+	free(c);
+	return (0);
+}
